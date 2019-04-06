@@ -8,7 +8,7 @@
  /**Class for setting up connection with embedded systems
  * 
  *
- * Author(s): TVZ Mechatronics Team,  Simon Ratković
+ * Author(s): TVZ Mechatronics,  Simon Ratković
  *
       
              KeyPad
